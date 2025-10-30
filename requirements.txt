@@ -1,0 +1,5 @@
+ISLP==0.4.0
+pip==23.2.1
+seaborn==0.13.2
+ISLP==0.4.0
+notebook==7.4.7
