@@ -1,10 +1,6 @@
 # islp
 repositorio para estudos do livro introduction to statistical learning
 
-
-# islp
-repositorio para estudos do livro introduction to statistical learning
-
 1. Clone o repositorio: 
 ```bash
 https://github.com/danieltodaDS/islp.git
@@ -13,8 +9,8 @@ cd ~/islp
 
 2. Configure a versao correta do Python com `pyenv`: 
 ```bash
-pyenv install 3.11.5
-pyenv local 3.11.5
+pyenv install 3.12.1
+pyenv local 3.12.1
 ```
 
 3. Instale as dependencias do projeto: 
